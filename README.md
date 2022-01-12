@@ -5,7 +5,7 @@
 
 ## Hi there 👋 I'm Pete Gallagher! 
 
-I'm an IoT Specialist, Company Owner, Microsoft Certified Trainer, Azure MVP, Pluralsight Author, Public Speaker, Community Organiser, STEM Ambassador, Podcaster, Twitch Streamer and Blogger.
+I'm a Senior Solutions Architect at Octopus Deploy, an IoT Specialist, Company Owner, Microsoft Certified Trainer, Azure MVP, Pluralsight Author, Public Speaker, Community Organiser, STEM Ambassador, Podcaster, Twitch Streamer and Blogger.
 
 My Pronouns are He/Him
 
