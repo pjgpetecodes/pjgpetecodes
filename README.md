@@ -36,7 +36,7 @@ I'm the owner of PJG Creations Ltd where I'm a freelance Software Engineer.
 
 Here are some Project Highlights you can find right here on my GitHub;
 
-- [.NET 7 Installer and Repo for the Raspberry Pi](https://github.com/pjgpetecodes/dotnet5pi ".NET 5 Installer and Repo for the Raspberry Pi")
+- [.NET 7 Installer and Repo for the Raspberry Pi](https://github.com/pjgpetecodes/dotnet7pi ".NET 7 Installer and Repo for the Raspberry Pi")
 - [A .NET 7 based Raspberry Pi Controlled, Blazor and SignalR Robot Arm](https://github.com/pjgpetecodes/rpirobot "A .NET 7 based Raspberry Pi Controlled, Blazor and SignalR Robot Arm")
 - [A Tweeting Azure IoT Hub ESP8266 based Telegraph](https://github.com/pjgpetecodes/AzureIoTTelegraph "A Tweeting Azure IoT Hub ESP8266 based Telegraph")
 
